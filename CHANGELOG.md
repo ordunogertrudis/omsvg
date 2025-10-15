@@ -57,3 +57,5 @@ Generated documentation for omsvg.
 # PR Merge: 2025-10-15 - docs/merge-8637
 
 # PR Merge: 2025-10-15 - docs/merge-6829
+
+# PR Update: 2025-10-15 - refactor/update-8664
